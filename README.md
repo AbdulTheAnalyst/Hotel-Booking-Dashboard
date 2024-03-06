@@ -40,3 +40,4 @@ This project involves the analysis of a dataset containing 66,542 hotel bookings
 6. What are the trends in occupancy rates, and are there preferences for group bookings or solo travelers?
 7. Can predictive modeling accurately forecast booking trends?
 8. What actionable recommendations can be derived from the analysis to optimize customer experience and bookings?
+[Data Source](http://datafrik.co/#/datasets)
